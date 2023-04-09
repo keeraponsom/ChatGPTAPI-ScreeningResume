@@ -11,7 +11,7 @@ requirement_data = str(data2)
 
 
 api_endpoint = 'https://api.openai.com/v1/chat/completions'
-api_key = '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'
+api_key = 'Your ChatGPT API key'
 
 request_headers = {
     'Content-Type': 'application/json',
